@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306360486155",
+    "project_id": "coachbot-db",
+    "storage_bucket": "coachbot-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306360486155:android:05c2221f11d8f24eb47a0e",
+        "android_client_info": {
+          "package_name": "com.example.gp_app_dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWwSRwpJ00VZeLML2qA725dL2-2LYh0v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
