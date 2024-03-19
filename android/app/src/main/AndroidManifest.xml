@@ -16,9 +16,7 @@
     <application
         android:label="gp_app_dev"
         android:name="${applicationName}"
-        android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
-        tools:targetApi="m"
         android:icon="@mipmap/ic_launcher"
         android:enableOnBackInvokedCallback="true" >
      
